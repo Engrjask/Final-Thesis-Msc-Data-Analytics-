@@ -1,5 +1,6 @@
 # Identifying Fake news using real-time Data Analytics Techniques 
-#Abstract
+# Abstract
+
 The World keeps changing consistently and rapidly. Unquestionably we have several positive impacts of this digital world, but it also has its downsides as well. There are different issues in this digital world one of them is fake news. Fake news has great impact in our modern society. Identifying Fake news in media outlets such as social media feeds, news blogs, and online newspapers is an important step.
 In this study, fake news has been analysed and a brief idea about real-time data analysis in background section. In the rationale section, the researcher has given previous methods and techniques that have been used to detect fake news. By using advanced technologies and social media tools, people create and share wrong information. By sharing and believing fake news, people make a fake world and suggest others conduct wrong processes. 
 The second section has defined the identity of fake news through the use of real-time data analytic techniques. A conceptual framework is illustrated in this section to define all the major variables. Fake news has different types such as misinformation, disinformation and others. Machine learning and deep learning are the best options to detect face news. 
